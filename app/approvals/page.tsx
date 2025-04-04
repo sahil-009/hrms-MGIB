@@ -11,7 +11,7 @@ export default function ApprovalsPage() {
     {
       id: 1,
       type: "Leave Request",
-      requestedBy: "John Doe",
+      requestedBy: "sumit",
       date: "Apr 10, 2025",
       status: "Pending",
       details: "Vacation leave for 3 days",
@@ -19,7 +19,7 @@ export default function ApprovalsPage() {
     {
       id: 2,
       type: "Expense Claim",
-      requestedBy: "Jane Smith",
+      requestedBy: "saisriya",
       date: "Apr 8, 2025",
       status: "Pending",
       details: "$250 for office supplies",
